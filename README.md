@@ -1,12 +1,7 @@
 # Social Networking Site - MERN Stack
 
-Welcome to the **Social Networking Site** built using the **MERN Stack** (MongoDB, Express, React, Node.js). This project offers users the ability to connect with each other, share posts, like content, and more, similar to popular social networking platforms.
+Welcome to the **Social Networking Site** built using the **MERN Stack** (MongoDB, Express, React, Node.js). 
 
-![Website Screenshot](./frontend/public/images/screenshot.png)
-
-## 🚀 Live Demo
-
-Check out the live demo of the application [here](https://fb-mern.vercel.app/).
 
 ## 📄 Description
 
@@ -35,45 +30,6 @@ This social networking site allows users to:
 - Friend request system.
 - Profile management (edit user information, update profile picture).
   
-## 🖥️ Setup Instructions
-
-To run the project locally, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/rehmanNRY/SocialMediaApp
-    ```
-
-2. **Install dependencies**:
-   - Navigate to both the frontend and backend directories and run:
-    ```bash
-    npm install
-    ```
-
-3. **Set up environment variables**:
-   - Create a `.env` file in the root directory of the backend and add the following:
-    ```env
-    MONGO_URI =
-    PORT =
-    CORS_ORIGIN=
-    JWT_SECRET=
-    ```
-
-4. **Start the development server**:
-   - Run the backend server:
-    ```bash
-    npm run dev
-    ```
-   - Run the frontend React application:
-    ```bash
-    npm run dev
-    ```
-
-5. **Access the app**: 
-   - Open your browser and go to `http://localhost:3000` for the frontend and `http://localhost:<Backend Port>` for the backend.
-
-## 👨‍💻 Developer
-
 **Rehman**  
 [LinkedIn](https://www.linkedin.com/posts/rehman-nry_finally-completed-that-project-hey-everyone-activity-7242780752663265281-CWtB?utm_source=share&utm_medium=member_desktop)
 
