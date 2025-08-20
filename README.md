@@ -30,7 +30,4 @@ This social networking site allows users to:
 - Friend request system.
 - Profile management (edit user information, update profile picture).
   
-**Rehman**  
-[LinkedIn](https://www.linkedin.com/posts/rehman-nry_finally-completed-that-project-hey-everyone-activity-7242780752663265281-CWtB?utm_source=share&utm_medium=member_desktop)
-
-Feel free to check out the live demo and connect with me on LinkedIn!
+#Aman Verma
